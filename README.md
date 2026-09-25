@@ -6,7 +6,7 @@ Forward-deployed engineer in Charlotte, NC. I embed with a business, find the wo
 
 **Field-service migration for a trades company** · Jul 2026 – now
 
-Moved a $3M, 26-person landscaping company, where I'd once worked on a crew, from paper route sheets and a binder of hand-typed invoices onto field-service software. The system now bills **$160–180K every month, recurring** ($339K in its first eight weeks, and growing with each monthly run). Python pipelines parsed 30,728 QuickBooks invoice rows and cross-checked six datasets. Where the software had no API, I automated it through the browser with idempotent Claude-driven runners that re-read every save.
+Moved a $3M, 26-person landscaping company, where I'd once worked on a crew, from paper route sheets and a binder of hand-typed invoices onto field-service software (data migration, configuration, verification). **$160–180K a month in recurring billing** now runs through it ($339K in its first eight weeks), and I run the monthly invoice cycle. Python pipelines parsed 30,728 QuickBooks invoice rows and cross-checked six datasets. Where the software had no API, I automated it through the browser with idempotent Claude-driven runners that re-read every save.
 
 **Agent platform for a consulting practice** · Apr 2026 – now
 
